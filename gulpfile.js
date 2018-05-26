@@ -68,8 +68,10 @@ const scripts = (done) => {
 const server = (done) => {
 	sync.init({
 		server: {
-			baseDir: './build'
+			baseDir: './build',
+			index: 'index.html'
 		},
+		files: './build',
 		ui: false
 	})
 }

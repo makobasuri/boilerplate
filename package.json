@@ -24,9 +24,7 @@
     "browser-sync": "^2.24.4",
     "gulp": "^4.0.0",
     "gulp-hb": "^7.0.1",
-    "gulp-sass": "^3.2.1"
-  },
-  "devDependencies": {
+    "gulp-sass": "^3.2.1",
     "autoprefixer": "^8.5.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
